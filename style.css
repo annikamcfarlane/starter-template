@@ -26,7 +26,7 @@ html {
 
 body {
   font-family: var(--body-typeface);
-  color: white;
+  color: red;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
@@ -50,13 +50,14 @@ h1 {
 }
 
 .hero-headline {
-  color: white;
+  color:red;
 }
 
 /* Hyperlink Styles */
 a {
   text-decoration: none;
-  color: white;
+
+  color:red;
 }
 
 a:hover {
@@ -90,7 +91,7 @@ p {
 
 
 .hero-footer {
-  color: white;
+  color:red;
 }
 
 .main-footer {
